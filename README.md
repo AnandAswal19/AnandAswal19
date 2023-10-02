@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on project with you
-- 📫 How to reach me ...
+- 📫 How to reach me shubhamaswal048@gmail.com
 
 <!---
 AnandAswal19/AnandAswal19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
